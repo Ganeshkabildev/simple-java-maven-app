@@ -12,7 +12,7 @@
     <server>
       <id>mymaven-releases</id>
       <username>admin</username>
-      <password>admin12</password>
+      <password>admin</password>
     </server>
   </servers>
 
